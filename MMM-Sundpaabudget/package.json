@@ -1,0 +1,10 @@
+{
+  "name": "MMM-Sundpaabudget",
+  "version": "1.0.0",
+  "description": "MagicMirror module that shows weekly meal plan from sundpaabudget.dk",
+  "main": "MMM-Sundpaabudget.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
